@@ -1,6 +1,3 @@
-# Olá, Mundo 
- Primeiro repositório do curso 
+# Olá, esse projeto ensina você a usar o Git
 
-Curso realizado - Curso em Vídeo
-
-Essa linha eu adicionei diretamente no site! 
+ 
